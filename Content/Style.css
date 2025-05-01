@@ -1,0 +1,11 @@
+﻿body {
+    background-color: #f8f9fa
+}
+/* Estilos para tarjetas de estado con efectos de hover */
+.status-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+    height: 100%;
+}
